@@ -21,7 +21,7 @@ Based in Bali, Indonesia · UTC+8 · Remote collaboration across EU and US time 
 
 ### AcuityPPM
 
-**Senior Full-Stack Engineer / Team Lead · July 2020–present**
+**At AcuityPPM since July 2020 · Current role: Senior Full-Stack Engineer / Team Lead**
 
 Build and maintain a portfolio-management SaaS with Rails, React, TypeScript, PostgreSQL, GraphQL and AWS. Work includes product features, third-party integrations, background processing and operational workflows.
 
@@ -29,7 +29,7 @@ Since 2025, my AI work has included an AWS Bedrock assistant grounded in applica
 
 ### ENEN School
 
-**Freelance developer · 2025–present**
+**Freelance developer · 2025 to present**
 
 Delivered the [school website](https://enenschool.com) in summer 2025 with SEO and visitor analytics. In early 2026, built a learning assistant using n8n, Notion and Telegram: knowledge-base answers, scheduled group assignments and student submissions available to teachers.
 
