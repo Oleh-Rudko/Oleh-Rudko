@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Oleh Rudko</title>
+  <desc id="desc">Product engineering, AI integration and automation. Graphite banner with a turquoise software architecture diagram.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0d1722"/>
+      <stop offset="1" stop-color="#152a35"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#40dcc6"/>
+      <stop offset="1" stop-color="#5da4ef"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8fb8c9" stroke-opacity=".065"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="18" fill="url(#background)"/>
+  <rect width="1200" height="340" rx="18" fill="url(#grid)"/>
+  <rect x="52" y="55" width="5" height="226" rx="2.5" fill="url(#line)"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="82" y="96" fill="#5ce3ce" font-size="14" font-weight="700" letter-spacing="3">RUBY ON RAILS · REACT · AWS</text>
+    <text x="78" y="170" fill="#f0f6fb" font-size="66" font-weight="700" letter-spacing="-2">Oleh Rudko</text>
+    <text x="82" y="213" fill="#c6d7e2" font-size="23">Product engineering</text>
+    <text x="82" y="246" fill="#c6d7e2" font-size="23">AI integration &amp; automation</text>
+  </g>
+  <g fill="none" stroke="url(#line)" stroke-width="2">
+    <path d="M875 114H925Q943 114 943 132V152"/>
+    <path d="M943 216V238Q943 252 959 252H1027"/>
+    <path d="M875 114H815Q799 114 799 130V210Q799 226 815 226H881" opacity=".6"/>
+    <path d="M1059 216V178Q1059 162 1043 162H1001" opacity=".6"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <rect x="745" y="78" width="130" height="72" rx="12" fill="#142832" stroke="#3c746e"/>
+    <text x="810" y="121" fill="#d3ece8" font-size="17">Product</text>
+    <rect x="881" y="152" width="120" height="64" rx="12" fill="#163d40" stroke="#5ce3ce" stroke-width="2"/>
+    <text x="941" y="191" fill="#8ef4e1" font-size="19" font-weight="700">AI</text>
+    <rect x="1027" y="216" width="130" height="72" rx="12" fill="#142832" stroke="#426f93"/>
+    <text x="1092" y="259" fill="#d3e5f4" font-size="17">Workflow</text>
+  </g>
+  <g fill="#5ce3ce">
+    <circle cx="943" cy="137" r="4"/>
+    <circle cx="799" cy="181" r="3" opacity=".7"/>
+    <circle cx="1007" cy="252" r="4"/>
+  </g>
+  <path d="M1199 40V300" stroke="#5ce3ce" stroke-opacity=".14"/>
+</svg>
