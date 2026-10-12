@@ -1,4 +1,4 @@
-<img src="assets/profile-banner.svg" width="100%" alt="Oleh Rudko. A personal view of software, AI and learning by building." />
+<img src="assets/ai-vision-banner.svg" width="100%" alt="Oleh Rudko. A personal view of software, AI and learning by building." />
 
 # Hi, I'm Oleh.
 
