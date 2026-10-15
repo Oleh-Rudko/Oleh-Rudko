@@ -8,7 +8,6 @@ AI lets us start unfamiliar tasks and learn by building. I combine domain expert
 
 [Read my vision](https://oleh-rudko.github.io/ai-vision/ai-en.html) · [Українською](https://oleh-rudko.github.io/ai-vision/ai-ua.html)
 
-My work includes AI assistants, integrations and automation. I also built [ENEN School's](https://enenschool.com) website and learning assistant.
 
 I'm based in Bali. Outside code, I play guitar and piano, sing, and read the Bible.
 
